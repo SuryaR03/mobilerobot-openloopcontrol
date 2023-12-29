@@ -31,8 +31,8 @@ Give ep_chassis.drive_speed to have a circular movement.
 ```
 ## Program
 ```
-Developed by : Logesh.N.A
-Register No: 23012242
+Developed by : Surya R
+Register No: 23013019
 from robomaster import robot
 import time
 from robomaster import camera
@@ -100,6 +100,7 @@ if _name_ == '_main_':
 
 Insert image here
 
+![WhatsApp Image 2023-12-29 at 22 04 01_6cb6e62a](https://github.com/SuryaR03/mobilerobot-openloopcontrol/assets/147140237/5dc152a7-fe42-42f9-b5b5-7d617a821742)
 
 <br/>
 <br/>
@@ -108,14 +109,7 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtu.be/K35vxo9Al-o?si=Dqg0_vSv96A4Jx1_
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
