@@ -98,7 +98,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+
 
 ![WhatsApp Image 2023-12-29 at 22 04 01_6cb6e62a](https://github.com/SuryaR03/mobilerobot-openloopcontrol/assets/147140237/5dc152a7-fe42-42f9-b5b5-7d617a821742)
 
